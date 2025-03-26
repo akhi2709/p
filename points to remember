@@ -1,0 +1,25 @@
+1-user story- as a ....i want to....so that....
+
+2-key features-
+*all features from the simple level
+
+
+3-acceptance criteria-
+*The system should display (a list of food items with prices. )
+*The user must be able to (add multiple food items to the cart.)
+
+4-story points- 3/5/9
+
+5-crud operation,
+complexity,complex backend  logic,AI driven
+5-complexity and justification (examples)-
+•feature involves basic crud operations making it relatively straightforward
+•adding (any function)(example...price drop notification) introduce slight complexity due to the backend logic requirement
+•this level introduce more dynamic interaction such as multiple wishlist,priority maangement...
+so...backend requires more complex logic for personalised recommendations& stock alrlerts increasing complexity
+•this level involves AI-driven recommendations, automation of purchases, and social media integration,
+making it significantly complex. Machine learning models, real-time price tracking, and automated purchasing workflows require intricate backend logic,
+making it a high-effort feature.
+
+
+ user,system,backend logic,
